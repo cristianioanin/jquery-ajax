@@ -21,12 +21,12 @@ const DataController = (function () {
     }
   }
 
-  function instantiateStudentObject(obj) {
+  function createStudent(obj) {
     return new Student(obj);
   }
 
   return {
-    createStudent: instantiateStudentObject
+    createStudent
   }
 })();
 

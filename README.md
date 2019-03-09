@@ -1,6 +1,8 @@
 # jquery-ajax
 **Informal School of IT - jQuery AJAX assignment**
 
+[See this project live](https://cristianioanin.github.io/jquery-ajax/)
+
 Having a set of students data, which include a list of disciplines and the respective grade for each, use AJAX to fetch the resources.
 Results are to be displayed like a grid of cards or a table.
 The list should have sorting functionality.
